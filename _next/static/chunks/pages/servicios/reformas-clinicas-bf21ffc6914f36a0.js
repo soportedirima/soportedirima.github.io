@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[644],{2058:(n,s,_)=>{"use strict";_.r(s),_.d(s,{default:()=>i});var e=_(7876);function i(){return(0,e.jsx)("main",{})}},9613:(n,s,_)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/servicios/reformas-clinicas",function(){return _(2058)}])}},n=>{n.O(0,[636,593,792],()=>n(n.s=9613)),_N_E=n.O()}]);
